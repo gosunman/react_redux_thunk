@@ -1,1 +1,1 @@
-# 💑 React-Redux_Async
+# 💑 React-Redux_Thunk
